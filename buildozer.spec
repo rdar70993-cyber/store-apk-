@@ -1,3 +1,4 @@
+
 [app]
 title = Store AP
 package.name = storeap
